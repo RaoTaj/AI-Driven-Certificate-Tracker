@@ -1,4 +1,4 @@
 Host,ExpiryDate,DaysLeft,Issuer,Status,Error
-google.com,2025-09-29 08:34:02,32.0,Google Trust Services,Healthy,
-yahoo.com,2025-11-05 23:59:59,70.0,DigiCert Inc,Healthy,
+google.com,2025-11-03 19:21:10,67.0,Google Trust Services,Healthy,
+yahoo.com,2025-11-05 23:59:59,69.0,DigiCert Inc,Healthy,
 expired.badssl.com,,,,Unreachable,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1028)
